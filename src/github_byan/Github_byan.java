@@ -19,6 +19,7 @@ public class Github_byan {
         System.out.println("Hai Melki");
         System.out.println("Melki on Branch1 :D " );
         System.out.println("Melki Abyan still at Branch1 :D ");
+        System.out.println("Wow! Now Melki on Branch2 ! ");
     }
     
 }
